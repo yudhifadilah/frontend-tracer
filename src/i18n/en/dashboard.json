@@ -1,0 +1,13 @@
+{
+  "sidebarMenu": {
+    "bookshelf": {
+      "discover": "Discover",
+      "finished": "Finished Books",
+      "readingList": "Reading List"
+    }
+  },
+  "topMenu": {
+    "profile": "Profile",
+    "signOut": "Sign Out"
+  }
+}

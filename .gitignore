@@ -1,0 +1,28 @@
+# Dependencies
+node_modules
+
+# Testing
+coverage
+
+# Production
+dist
+dist-ssr
+
+# Misc
+.DS_Store
+Thumbs.db
+*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# IDE
+.idea
+
+# ESLint
+.eslintcache
+
+# SWC
+.swc
